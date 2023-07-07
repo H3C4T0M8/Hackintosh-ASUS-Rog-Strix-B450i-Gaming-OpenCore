@@ -1,4 +1,4 @@
-# Hackintosh-ASUS-Rog-Strix-B450i-Gaming-OpenCore
+# Hackintosh-ASUS-Rog-Strix-B450i-Gaming-OpenCore macOS Sonoma work
 
 Chipset: B450
 LAN: Intel® I211-AT
